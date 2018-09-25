@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">Learning_Kids</string>
+
+
+    <string name="action_settings">Settings</string>
+
+
+        <string-array name="letters">
+            <item>A</item>
+            <item>B</item>
+            <item>C</item>
+            <item>D</item>
+            <item>E</item>
+            <item>F</item>
+            <item>G</item>
+            <item>H</item>
+            <item>I</item>
+            <item>J</item>
+            <item>K</item>
+            <item>L</item>
+            <item>M</item>
+            <item>N</item>
+            <item>O</item>
+            <item>P</item>
+            <item>Q</item>
+            <item>R</item>
+            <item>S</item>
+            <item>T</item>
+            <item>U</item>
+            <item>V</item>
+            <item>W</item>
+            <item>X</item>
+            <item>Y</item>
+            <item>Z</item>
+        </string-array>
+        <string-array name="words">
+
+            <item>Apple</item>
+            <item>Bear</item>
+            <item>carrot</item>
+            <item>dog</item>
+            <item>eggplant</item>
+            <item>fish</item>
+            <item>giraffe</item>
+            <item>hippo</item>
+            <item>ice cream</item>
+            <item>jeans</item>
+            <item>kiss</item>
+            <item>leaf</item>
+            <item>monkey</item>
+            <item>newt</item>
+            <item>onion</item>
+            <item>palette</item>
+            <item>queen</item>
+            <item>rain</item>
+            <item>snow</item>
+            <item>tiger</item>
+            <item>ufo</item>
+            <item>van</item>
+            <item>water</item>
+            <item>X ray</item>
+            <item>yak</item>
+            <item>zigzag</item>
+
+        </string-array>
+    <string-array name="number">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+        <item>six</item>
+        <item>seven</item>
+        <item>eight</item>
+        <item>nine</item>
+        <item>ten</item>
+    </string-array>
+
+
+    <string-array name="months">
+        <item>january</item>
+        <item>february</item>
+        <item>march</item>
+        <item>april</item>
+        <item>may</item>
+        <item>june</item>
+        <item>july</item>
+        <item>august</item>
+        <item>september</item>
+        <item>october</item>
+        <item>november</item>
+        <item>december</item>
+    </string-array>
+
+    <string-array name="days">
+        <item>saturday</item>
+        <item>sunday</item>
+        <item>monday</item>
+        <item>tuesday</item>
+        <item>wednesday</item>
+        <item>thursday</item>
+        <item>friday</item>
+
+    </string-array>
+    <string name="title_activity_alpha">alpha</string>
+    <string name="title_activity_numbers">numbers</string>
+    <string name="title_activity_month">Month</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_days">Days</string>
+    <string name="title_activity_music">Music</string>
+    <string name="title_activity_sound">Sound</string>
+
+</resources>
